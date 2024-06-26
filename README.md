@@ -8,8 +8,8 @@ La url base para consumir el servicio es: https://reqres.in/; dependiendo la eje
 
 GET https://reqres.in/api/users/2
 
-POST https://reqres.in/api/users - {"name":"Andres","job":"Tester"}
+POST https://reqres.in/api/users - {"name":"Camilo","job":"Devops"}
 
-PUT https://reqres.in/api/users/2 - {"name":"Andres Mieles","job":"QA Analyst"}
+PUT https://reqres.in/api/users/2 - {"name":"Camilo Sanchez","job":"QA Analyst"}
 
 DELETE https://reqres.in/api/users/2

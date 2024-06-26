@@ -1,4 +1,4 @@
-Se Automatizan varias API tipos REST para verificar y validar el correcto funcionamiento de las tareas asignadas al servicio; se validara apis de tipos get,post,put,delete.
+Se Automatizan varias API tipos REST para verificar y validar el correcto funcionamiento de las tareas asignadas al servicio; se validara apis de tipos (get, post, put & delete)
 
 ### Consumo del servicio
 
